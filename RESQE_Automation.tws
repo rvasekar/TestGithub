@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TCWorkspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WorkspaceRepository>
+    <RepoClass>SQLiteRepository</RepoClass>
+    <DatabasePathAndName>.\Repository\RESQE_Automation.db</DatabasePathAndName>
+    <Database>C:\Tosca_Projects\Tosca_Workspaces\RESQE_Automation\Repository\RESQE_Automation.db</Database>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </WorkspaceRepository>
+  <CommonRepository>
+    <RepoClass>SQLiteRepository</RepoClass>
+    <DatabasePathAndName>C:\Tosca_Projects\Tosca_Workspaces\Testdata\Repository\RESQE_Automation\CommonRepository\CommonRepository.db</DatabasePathAndName>
+    <Database>C:\Tosca_Projects\Tosca_Workspaces\Testdata\Repository\RESQE_Automation\CommonRepository\CommonRepository.db</Database>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </CommonRepository>
+  <DefaultUser>
+    <UserName>Admin</UserName>
+    <UserSurrogate>3a0af377-27f2-527d-1728-c652256f2a1c</UserSurrogate>
+  </DefaultUser>
+  <TCWorkspaceID>fd4d2a28-43d1-4254-83a9-8b1978311f2d</TCWorkspaceID>
+  <TCCommonRepositoryID>b64be756-958e-424b-8851-5ee9d76005c6</TCCommonRepositoryID>
+  <TCWorkspaceDescription />
+</TCWorkspace>
